@@ -1,4 +1,4 @@
-package c12.pack6.subpack1.subsubpack;
+package ch12.pack6.subpack1.subsubpack;
 
 public class CStyle {
     public int style;

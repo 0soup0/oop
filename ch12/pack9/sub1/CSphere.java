@@ -1,4 +1,4 @@
-package c12.pack9.sub1;
+package ch12.pack9.sub1;
 
 public class CSphere {
     final static double PI = 3.14;

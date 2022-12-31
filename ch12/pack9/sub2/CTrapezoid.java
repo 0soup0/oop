@@ -1,4 +1,4 @@
-package c12.pack9.sub2;
+package ch12.pack9.sub2;
 
 public class CTrapezoid {
     private int upper;

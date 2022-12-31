@@ -1,6 +1,6 @@
-package c12;
-import c12.pack9.sub1.CSphere;
-import c12.pack9.sub2.CTrapezoid;
+package ch12;
+import ch12.pack9.sub1.CSphere;
+import ch12.pack9.sub2.CTrapezoid;
 public class class09 {
     public static void main(String[] args) {
         CSphere sp = new CSphere(2);

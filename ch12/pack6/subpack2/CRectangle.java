@@ -1,4 +1,4 @@
-package c12.pack6.subpack2;
+package ch12.pack6.subpack2;
 
 public class CRectangle {
     public void show(){

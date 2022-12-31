@@ -1,4 +1,4 @@
-package c12.pack6.subpack1;
+package ch12.pack6.subpack1;
 
 public class Ccircle {
     public void show(){
